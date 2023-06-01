@@ -1,0 +1,7 @@
+{
+  "name": "ion-php-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
